@@ -5,8 +5,8 @@ public class Person{
 
 
 // Getters
-public String getNome(){
-  return this.nome;
+public String getName(){
+  return this.name;
 }
 
 public String getLastName(){
