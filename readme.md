@@ -6,3 +6,4 @@ This repository is shows examples of Oriented Objects Programming's principles
 ## Encapsulation
 ## Inheritance
 ## Polymorphism
+Based on 'curso em video' channel's exercise
